@@ -1,2 +1,2 @@
-# Tugas1---Git-GitHub
+# Tugas1_Git&GitHub
 Latihan memakai git dan github.
